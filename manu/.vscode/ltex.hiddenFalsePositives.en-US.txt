@@ -1,0 +1,19 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QObliczenia elektrycznych momentów dipolowych dla dwuelektronowych dwuatomowych cząsteczek\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qprof.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdr hab.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qdr hab.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QKrzysztof Pachucki Chair of quantum optics and atomic physics Institute of Theoretical Physics mgr Michał Siłkowski Chair of quantum optics and atomic physics Institute of Theoretical Physics\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q13.2 Fizyka\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA detailed description of the method and its usefulness is provided and illustrated with numerical calculations of the permanent dipole moment and energy of the HeH+ molecule in its ground state.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThis thesis also provides an example calculation made with said software, specifically it attempts to calculate the ground state energy and the permanent dipole moment of the HeH+ molecule.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe calculations will be performed using the method first described in \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q that builds upon the way Kołos and Wolniewicz \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q performed calculations of the ground state energies of the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q molecule.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qfunctions.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QExample calculations for the HeH+.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmolecule.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe HeH+ molecule consists of two electrons and two nuclei: helium 4 nucleus(alpha particle) with a charge of 2 and a mass of \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q a.u. and a hydrogen nucleus with a charge of 1 and mass of \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q a.u.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIn case of HeH+ the ground state is a singlet state with \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q symmetry.\\E$"}
+{"rule":"SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA","sentence":"^\\QHence the input of the part dependent on the distance of the electrons form the hydrogen atom into the exponential part of the functions becomes negligible.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIn theoretical discussions the emergence of this effect can be explained by the Kato cusp condition that states that in a Coulomb potential the electron density has to have a cusp at the position of the particle\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe calculations of the permanent dipole moment and the ground state energy for the HeH+ performed using the program resulted in highly accurate(relative \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q precision) results that were consistent with expectations.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qfunction formalism.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QInterpretation of the linear combinations of interelectronic coordinates.\\E$"}

@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{chem}
+P.~Wustelt, F.~Oppermann, L.~Yue, M.~M\"oller, T.~St\"ohlker, M.~Lein,
+  S.~Gr\"afe, G.~G. Paulus, and A.~M. Sayler.
+\newblock Heteronuclear limit of strong-field ionization: Fragmentation of
+  ${\mathrm{heh}}^{+}$ by intense ultrashort laser pulses.
+\newblock {\em Phys. Rev. Lett.}, 121:073203, Aug 2018.
+
+\bibitem{astro}
+S.~Bovino, M.~Tacconi, F.~Gianturco, and D.~Galli.
+\newblock Ion chemistry in the early universe - revisiting the role of heh+
+  with new quantum calculations.
+\newblock {\em Astronomy and Astrophysics}, 529, 03 2011.
+
+\bibitem{metoda}
+K.~Pachucki.
+\newblock Efficient approach to two-center exponential integrals with
+  applications to excited states of molecular hydrogen.
+\newblock {\em Phys. Rev. A}, 88:022507, Aug 2013.
+
+\bibitem{Kolos1}
+W.~Ko\l{}os and L.~Wolniewicz.
+\newblock Confirmation of the discrepancy between the theoretical and
+  experimental ground-state energies of ${\mathrm{h}}_{2}$.
+\newblock {\em Phys. Rev. Lett.}, 20:243--244, Feb 1968.
+
+\bibitem{Kolos2}
+W.~Kołos and L.~Wolniewicz.
+\newblock Improved theoretical ground‐state energy of the hydrogen molecule.
+\newblock {\em Journal of Chemical Physics}, 49:404--410, 1968.
+
+\bibitem{EllipticRys}
+J.~Lee, C.~Park, and Y.~Shin.
+\newblock Destructive frequency of oblate spheroidal air-balloon for
+  suppression of propeller cavitation induced hull excitation.
+\newblock {\em The Journal of the Acoustical Society of America}, 144, 07 2018.
+
+\bibitem{eliptic_article}
+C.~Sun.
+\newblock A note on elliptic coordinates.
+\newblock {\em Mathematical Modelling and Applications}, 2:43--46, 10 2017.
+
+\bibitem{H2SOLV}
+K.~Pachucki, M.~Zientkiewicz, and V.A. Yerokhin.
+\newblock H2solv: Fortran solver for diatomic molecules in explicitly
+  correlated exponential basis.
+\newblock {\em Computer Physics Communications}, 208:162--168, 2016.
+
+\bibitem{JamesCoolidge}
+H.~Maxwell James and Albert~Sprague Coolidge.
+\newblock The ground state of the hydrogen molecule.
+\newblock {\em Journal of Chemical Physics}, 1:825--835, 1933.
+
+\bibitem{Moper}
+G.~Staszewska and L.~Wolniewicz.
+\newblock Transition moments among (3)sigma and (3)pi states of the h(2)
+  molecule.
+\newblock {\em Journal of molecular spectroscopy}, 198:416--420, 01 2000.
+
+\bibitem{SCHWARTZ}
+C.~Shwartz.
+\newblock Experiment and theory in computations of the he atom ground state.
+\newblock {\em International Journal of Modern Physics E}, 15(04):877--888,
+  2006.
+
+\bibitem{Kato2011OnTE}
+T.~Kato.
+\newblock On the eigenfunctions of many-particle systems in quantum mechanics.
+\newblock In {\em On the Eigenfunctions of Many-Particle Systems in Quantum
+  Mechanics}, 1957.
+
+\end{thebibliography}

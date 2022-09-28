@@ -1,0 +1,8 @@
+An efficient way of high-precision calculations of expectation values of electronic operators in two-electron diatomic molecules is outlined and explored.
+A detailed description of the method and its usefulness is provided and illustrated with the numerical calculations of the 
+permanent dipole moment and energy of the HeH\textsuperscript{+} molecule in its ground state. A comparison of obtained 
+results against values present in the literature is provided and discussed.
+
+W pracy przedstawiono efektywną metodę obliczania wartości oczekiwanych o wysokiej precyzji dla operatorów elektronowych dwuelektronowych dwuatomowych cząsteczek.
+Zawarto dokładny opis oraz uzasadnienie użyteczności tej metody, zilustrowane jej przykładowym
+wykorzystaniem w numerycznych obliczeniach dipolowego momentu oraz energii stanu podstawowego cząsteczki HeH+. Uzyskane wyniki przedyskutowano i porównano z przewidywaniami oraz wynikami dostępnymi w literaturze.

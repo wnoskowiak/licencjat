@@ -1,0 +1,45 @@
+Dear Prof. Pachucki,
+Thanks a lot for your reply!
+I will download the potentials from your website and I am looking forward to hearing from the PDM results in the near future. Actually quantum electrodynamics effects are not so important for our study as we will control the nuclear vibrational dynamics of the molecule using some specifically tailored laser pulses.
+Best regards,
+András
+
+________________________________________
+From: Krzysztof Pachucki <Krzysztof.Pachucki@fuw.edu.pl>
+Sent: Thursday, March 10, 2022 12:11 PM
+To: Dr. Csehi András
+Cc: Krzysztof Pachucki; Michal Silkowski
+Subject: Re: HeH+ ab initio data
+
+Dear András,
+
+Thank you for your interest in our works. Let me point your attention to our next work J. Chem. Phys. 137, 204314 (2012)
+with tables for adiabatic, nonadiabatic, and relativistic corrections to potentials.
+All these works with supplements you can download from my website www.fuw.edu.pl/~krp<http://www.fuw.edu.pl/~krp>.
+If you need a TeX source, let me know. If you need data in the text format, please specify exactly the format of data.
+Regarding dipole moment function, we do not have it at hand, but we will get it in a few weeks.
+Please note, these data are not very fresh, my coworkers from University in Poznań are now performing more accurate
+calculations, including quantum electrodynamics effects. Everything depends on what accuracy you need for potentials.
+
+With best regards
+Krzysztof Pachucki
+
+
+
+Wiadomość napisana przez Dr. Csehi András <csehi.andras@science.unideb.hu<mailto:csehi.andras@science.unideb.hu>> w dniu 10.03.2022, o godz. 09:26:
+
+Dear Prof. Pachucki,
+
+I am writing to you in reference to your paper
+
+"Born-Oppenheimer potential for HeH+"
+PHYSICAL REVIEW A 85, 042511 (2012)
+
+Me and my colleagues would like to carry out accurate nuclear dynamical simulations for the HeH+ system in its ground electronic state.
+For that purpose I want to ask if you could provide us some relevant data based on your above paper?
+We will need the potential curve for the ground electronic state and the corresponding permanent dipole function.
+Could you please send us these data for this molecule? We'd very much appreciate your consideration!
+
+Best regards,
+András Csehi
+Univ. Debrecen
